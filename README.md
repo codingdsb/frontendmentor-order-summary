@@ -22,7 +22,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: https://github.com/Darshan-Bajeja/frontendmentor-order-summary
+- Repository URL: https://github.com/Darshan-Bajeja/frontendmentor-order-summary
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-order-summary-card-with-css-flexbox-jU97cHCqj
 - Live Site: https://Darshan-Bajeja.github.io/frontendmentor-order-summary
 
 ## Process
